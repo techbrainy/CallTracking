@@ -38,11 +38,3 @@ json_object = json.dumps(response1)
 with open("sample.json", "w") as outputfile:
     outputfile.write(json_object)  
  
-# def loadjson(tx):
-#     pathh = "file:///D:/Advanced_DB/HospitalManagement/sample.json"
-
-#     nodes = tx.run("")
-    
-
-
-  
